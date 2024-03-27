@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = Jekyll::SeoTag::VERSION
   spec.authors       = ["Ben Balter"]
   spec.email         = ["ben.balter@github.com"]
-  spec.summary       = "A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content."
-  spec.homepage      = "https://github.com/jekyll/jekyll-seo-tag"
+  spec.summary       = "[Yuan Works edited] A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content."
+  spec.homepage      = "https://github.com/yuanworks/jekyll-seo-tag"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
